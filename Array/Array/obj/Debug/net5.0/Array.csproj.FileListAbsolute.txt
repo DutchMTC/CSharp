@@ -1,0 +1,15 @@
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.exe
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.deps.json
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.dll
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\ref\Array.dll
+C:\School\L1P3\C#\Array\Array\bin\Debug\net5.0\Array.pdb
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.dll
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\ref\Array.dll
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.pdb
+C:\School\L1P3\C#\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache

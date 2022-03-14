@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.exe
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.deps.json
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.json
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.dev.json
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.dll
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\ref\RandomNumber.dll
+C:\School\L1P3\C#\RandomNumber\RandomNumber\bin\Debug\net5.0\RandomNumber.pdb
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.AssemblyReference.cache
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfo.cs
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.dll
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\ref\RandomNumber.dll
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.pdb
+C:\School\L1P3\C#\RandomNumber\RandomNumber\obj\Debug\net5.0\RandomNumber.genruntimeconfig.cache

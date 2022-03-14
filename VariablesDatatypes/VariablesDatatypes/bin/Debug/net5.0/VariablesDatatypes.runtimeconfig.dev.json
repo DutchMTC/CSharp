@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Miyaki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Miyaki\\.nuget\\packages"
+    ]
+  }
+}

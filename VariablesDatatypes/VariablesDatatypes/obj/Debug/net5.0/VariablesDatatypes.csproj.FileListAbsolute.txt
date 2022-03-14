@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.exe
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.deps.json
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.runtimeconfig.json
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.runtimeconfig.dev.json
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.dll
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\ref\VariablesDatatypes.dll
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\bin\Debug\net5.0\VariablesDatatypes.pdb
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.csproj.AssemblyReference.cache
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.AssemblyInfo.cs
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.dll
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\ref\VariablesDatatypes.dll
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.pdb
+C:\School\L1P3\C#\VariablesDatatypes\VariablesDatatypes\obj\Debug\net5.0\VariablesDatatypes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.csproj.AssemblyReference.cache
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.AssemblyInfo.cs
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.exe
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.deps.json
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.json
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.runtimeconfig.dev.json
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.dll
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\ref\Reverse.dll
+C:\School\L1P3\C#\Reverse\Reverse\bin\Debug\net5.0\Reverse.pdb
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.dll
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\ref\Reverse.dll
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.pdb
+C:\School\L1P3\C#\Reverse\Reverse\obj\Debug\net5.0\Reverse.genruntimeconfig.cache
