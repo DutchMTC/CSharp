@@ -5,6 +5,11 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        Reverse();
+    }
+
+    public static void Reverse()
+    {
         string Str, reversestring = "";
         int Length;
         Console.Write("Enter A String: ");

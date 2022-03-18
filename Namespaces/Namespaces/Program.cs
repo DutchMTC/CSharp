@@ -1,5 +1,6 @@
 ﻿using System;
 using Namespace2;
+using Address;
 
 namespace Namespaces
 {
@@ -7,7 +8,13 @@ namespace Namespaces
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person person = new Person();
+            string name = person.name;
+            int age = person.age;
+
+            Console.WriteLine("Name: " + name);
+            Console.WriteLine("Age: " + age);
+            Console.WriteLine("Address: " + person.address2.address);
         }
     }
 }

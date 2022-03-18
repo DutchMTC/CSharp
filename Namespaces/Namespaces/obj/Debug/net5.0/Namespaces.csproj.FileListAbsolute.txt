@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.exe
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.deps.json
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.runtimeconfig.json
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.runtimeconfig.dev.json
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.dll
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\ref\Namespaces.dll
+C:\School\L1P3\C#\Namespaces\Namespaces\bin\Debug\net5.0\Namespaces.pdb
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.AssemblyInfo.cs
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.dll
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\ref\Namespaces.dll
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.pdb
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.genruntimeconfig.cache
+C:\School\L1P3\C#\Namespaces\Namespaces\obj\Debug\net5.0\Namespaces.csproj.AssemblyReference.cache

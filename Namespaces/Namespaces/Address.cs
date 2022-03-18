@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Namespace2
+namespace Address
 {
-    internal class Person1
+    internal class Address1
     {
-        string name = "Miyaki";
-        int age = 17;
-
+        public string address = "YourMotherStreet 1";
     }
 }
