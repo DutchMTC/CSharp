@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.exe
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.deps.json
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.json
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.dev.json
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.dll
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\ref\GettersAndSetters.dll
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.pdb
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csproj.AssemblyReference.cache
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfo.cs
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.dll
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\ref\GettersAndSetters.dll
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.pdb
+C:\School\L1P3\C#\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.genruntimeconfig.cache

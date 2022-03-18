@@ -1,0 +1,15 @@
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.exe
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.deps.json
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.runtimeconfig.json
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.runtimeconfig.dev.json
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.dll
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\ref\Scopes.dll
+C:\School\L1P3\C#\Scopes\Scopes\bin\Debug\net5.0\Scopes.pdb
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.AssemblyInfo.cs
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.dll
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\ref\Scopes.dll
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.pdb
+C:\School\L1P3\C#\Scopes\Scopes\obj\Debug\net5.0\Scopes.genruntimeconfig.cache

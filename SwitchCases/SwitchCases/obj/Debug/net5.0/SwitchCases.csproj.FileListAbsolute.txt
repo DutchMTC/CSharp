@@ -1,0 +1,16 @@
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.exe
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.deps.json
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.runtimeconfig.json
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.runtimeconfig.dev.json
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.dll
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\ref\SwitchCases.dll
+C:\School\L1P3\C#\SwitchCases\SwitchCases\bin\Debug\net5.0\SwitchCases.pdb
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.csproj.AssemblyReference.cache
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.AssemblyInfoInputs.cache
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.AssemblyInfo.cs
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.csproj.CoreCompileInputs.cache
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.dll
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\ref\SwitchCases.dll
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.pdb
+C:\School\L1P3\C#\SwitchCases\SwitchCases\obj\Debug\net5.0\SwitchCases.genruntimeconfig.cache
