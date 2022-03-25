@@ -15,13 +15,17 @@ namespace Overerving
                 case "YES":
                     Console.WriteLine("How much do you want to feed the horse? (0-100)");
                     int amount = Int32.Parse(Console.ReadLine());
-                    if(amount <= 100)
+                    if (amount <= 100 && amount >= 0)
                     {
                         horse.Feed(amount);
                     }
-                    else if(amount >= 100)
+                    else if (amount >= 100)
                     {
                         Console.WriteLine("The horse isn't that hungry!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Are you trying to kill the horse?");
                     }
                     break;
                 case "NO":
